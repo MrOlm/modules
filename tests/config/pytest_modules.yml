@@ -1097,6 +1097,10 @@ imputeme/vcftoprs:
   - modules/imputeme/vcftoprs/**
   - tests/modules/imputeme/vcftoprs/**
 
+instrain:
+  - modules/instrain/**
+  - tests/modules/instrain/**
+
 iqtree:
   - modules/iqtree/**
   - tests/modules/iqtree/**
